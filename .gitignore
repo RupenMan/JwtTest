@@ -1,0 +1,10 @@
+demo/target/**
+demo/.mvn/**
+demo/.settings/**
+.classpath
+.project
+HELP.md
+mvnw
+mvnw.cmd
+demo/.gitignore
+
